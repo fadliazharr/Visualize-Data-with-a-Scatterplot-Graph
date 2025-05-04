@@ -65,4 +65,5 @@ d3.json("https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/mas
 
     legend.append("div").html(`<span style="color:#1f77b4;">&#9679;</span> No Doping Allegations`);
     legend.append("div").html(`<span style="color:#d62728;">&#9679;</span> Riders with Doping Allegations`);
-  });
+  })
+  .catch(err => console.error("Error loading data:", err));
