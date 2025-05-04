@@ -1,9 +1,7 @@
 # Visualize-Data-with-a-Scatterplot-Graph
-# D3 Scatterplot Graph - FCC Data Visualization Project
-
 This project is a D3.js scatterplot graph visualizing the 35 fastest times up Alpe d'Huez during the Tour de France. It highlights riders with and without doping allegations.
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo]([https://your-live-demo-link.com](https://visualize-data-with-a-scatterplot-graph.vercel.app/))
 
 ## Features
 
